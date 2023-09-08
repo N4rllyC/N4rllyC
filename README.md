@@ -16,26 +16,20 @@ Soy una programadora full stack junior apasionada por la tecnología. Actualment
 
 ## Herramientas y tecnologías 🛠️
 
-- Angular
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Tailwind CSS
-- MySQL
-![HTML](https://img.shields.io/badge/HTML-HTML5-E34F26?logo=html5&style=flat-square&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-CSS3-1572B6?logo=css3&style=flat-square&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4-563D7C?logo=bootstrap&style=flat-square&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&style=flat-square&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?logo=php&style=flat-square&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&style=flat-square&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Git-181717?logo=github&style=flat-square&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2-38B2AC?logo=tailwind-css&style=flat-square&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Professional-F24E1E?logo=figma&style=flat-square&logoColor=white)
-![Java](https://img.shields.io/badge/Java-11-007396?logo=java&style=flat-square&logoColor=white)
-![XML](https://img.shields.io/badge/XML-Data-FF6600?logo=xml&style=flat-square&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-Notes-000000?logo=notion&style=flat-square&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?logo=jira&style=flat-square&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Git-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Professional-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-11-007396?style=for-the-badge&logo=java&logoColor=white)
+![XML](https://img.shields.io/badge/XML-Data-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Notes-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 
