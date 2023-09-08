@@ -45,6 +45,6 @@ Me interesa especialmente el desarrollo web progresivo y la creación de aplicac
 
 ## Contacto 📫
 
- También puedes escribirme un correo electrónico a [tu@email.com](mailto:narllycarcamo@gmail.com).
+ También puedes escribirme un correo electrónico a [narllycarcamo@gmail.com](mailto:narllycarcamo@gmail.com).
 
 ¡Espero poder contribuir positivamente con mi trabajo! 😊
