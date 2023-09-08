@@ -1,4 +1,5 @@
 # ¡Hola! Soy N4rllyC 👋
+Desarrollador de software
 
 Soy una programadora full stack junior apasionada por la tecnología. Actualmente, estoy en constante aprendizaje y buscando oportunidades para colaborar en proyectos interesantes.
 
@@ -8,11 +9,11 @@ Soy una programadora full stack junior apasionada por la tecnología. Actualment
 
 ## Proyectos destacados 🚀
 
-Hotelista
-Donde fer
-MiniSuper Samir
-Yonis Cabinets
-Porfolio personal hecho a medida
+-Hotelista
+-Donde fer
+-MiniSuper Samir
+-Yonis Cabinets
+-Porfolio personal hecho a medida
 
 ## Herramientas y tecnologías 🛠️
 
@@ -23,6 +24,7 @@ Porfolio personal hecho a medida
 - PHP
 - Tailwind CSS
 - MySQL
+  
 
 
 
