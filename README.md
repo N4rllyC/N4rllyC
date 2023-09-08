@@ -1,11 +1,10 @@
 # ¡Hola! Soy N4rllyC 👋
-Desarrollador de software
 
 Soy una programadora full stack junior apasionada por la tecnología. Actualmente, estoy en constante aprendizaje y buscando oportunidades para colaborar en proyectos interesantes.
 
 ## Experiencia previa 💼
 
-- Desarrollo web en Twinny Company (2023): Trabajé en el equipo de desarrollo front-end,Backend  donde ayudé  utilizando Angular y Java.
+ Ayudé a mejorar una aplicación de comercio existente en Twinny Company (2023), trabajando en el desarrollo web con Angular y Java."
 
 ## Proyectos destacados 🚀
 
@@ -24,8 +23,24 @@ Soy una programadora full stack junior apasionada por la tecnología. Actualment
 - PHP
 - Tailwind CSS
 - MySQL
+-  <div class="icon-banner">
+                <ul class="list-inline">
+                  <li class="list-inline-item"><i class="fab fa-html5"></i> HTML</li>
+                  <li class="list-inline-item"><i class="fab fa-css3-alt"></i> CSS</li>
+                  <li class="list-inline-item"><i class="fab fa-bootstrap"></i> Bootstrap</li>
+                  <li class="list-inline-item"><i class="fab fa-js"></i> JavaScript</li>
+                  <li class="list-inline-item"><i class="fab fa-php"></i> PHP</li>
+                  <li class="list-inline-item"><i class="fas fa-database"></i> MySQL</li>
+                  <li class="list-inline-item"><i class="fab fa-github"></i> GitHub</li>
+                  <li class="list-inline-item"><i class="fab fa-tailwind"></i> Tailwind CSS</li>
+                  <li class="list-inline-item"><i class="fab fa-figma"></i> Figma</li>
+                  <li class="list-inline-item"><i class="fab fa-java"></i> Java</li>
+                  <li class="list-inline-item"><i class="fas fa-code"></i> XML</li>
+                  <li class="list-inline-item"><i class="fas fa-book"></i> Notion</li>
+                  <li class="list-inline-item"><i class="fab fa-jira"></i> Jira</li>
+                </ul>
+              </div>
   
-
 
 
 ## Colaboración y oportunidades 🤝
